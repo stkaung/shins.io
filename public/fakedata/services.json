@@ -1,109 +1,100 @@
 [
   {
     "id": 1,
-    "title": "Web Development",
+    "title": "Scaling Your Business",
     "img": "/img/services/1.png",
-    "iconName": "flaticon-design",
-
-    "desc": "Elizabeth some dodgy chavs are you taking the piss faff about pardon amongst car boot a load of old tosh is cracking goal blow off telling brown.",
-    "shortDesc": "Ensure your website looks great on any device,with layouts that adapt to different screen sizes seamlessly.",
-    "desc1": "Brolly show off show off pick your nose and blow off well A bit of how’s your father tomfoolery blimey, me old mucker starkers Queen’s English dropped a clanger bite your arm spiffing good time burke Why chancer. Hotpot bum bag cracking goal young delinquent naff bugger cup of chars bender loo it’s all gone to pot the nancy cheeky.",
-    "desc2": "At public school cras bog some dodgy chav Richard Why argy bargy vagabon William bender matie boy, off his nut chancer Jeffrey up the kyver say mufty you mug ummm telling pear shaped Oxford owt to do with me do one so said are you taking his.",
-    "totalProject": "10 Projects",
+    "iconName": "fa fa-chart-line",
+    "desc": "We help businesses generate high-quality leads, establish trust, and build a strong online presence—so customers choose you over the competition.",
+    "shortDesc": "A high-converting website that attracts leads, builds trust, and turns visitors into loyal customers.",
+    "desc1": "Your business needs more than just a great product or service—it needs a strong online presence that attracts leads and turns them into paying customers. A professional, well-optimized website ensures that when people search for what you offer, they find you first—not your competitors. First impressions matter, and your website is often the first point of contact between you and potential customers.",
+    "desc2": "Without a strong website, you're leaving money on the table. Customers today expect a seamless online experience, and if they can’t find clear, trustworthy information about your business, they’ll move on to a competitor. We create websites designed to capture attention, generate leads, and convert visitors—securing your place as the go-to choice in your industry.",
+    "totalProject": "30+ Projects",
     "process": {
-      "title": "Services Process",
+      "title": "Our Lead-Generating Process",
       "img": "/img/services/service-details.jpg",
-      "iconName": "flaticon-ux-design ",
+      "iconName": "flaticon-strategy",
 
-      "desc": "Elizabeth some dodgy chavs are you taking the piss faff about pardon amongst car boot a load of old tosh is cracking goal blow off telling brown.",
+      "desc": "We don’t just build websites—we build lead-generating machines that help your business grow and stay ahead of the competition.",
       "processItems": [
-        "Reinvent Your Business to Better",
-        "Pioneering the Internet's First",
-        "Pioneering the Design World's First",
-        "Pioneering the Design World's First",
-        "Pioneering the Design World's First",
-        "Pioneering the Design World's First"
+        "Attract & Capture More High-Quality Leads",
+        "Position Your business as a Trusted Authority",
+        "Optimize Your Website for Maximum Conversions",
+        "Convert Visitors into Long-Term Customers",
+        "Outshine Competitors & Secure Market Share"
       ]
     }
   },
   {
     "id": 2,
-    "title": "UI/UX Design",
+    "title": "High-Converting Design",
     "img": "/img/services/2.png",
-    "iconName": "flaticon-ux-design",
+    "iconName": "fa fa-paint-brush",
 
-    "desc": "Elizabeth some dodgy chavs are you taking the piss faff about pardon amongst car boot a load of old tosh is cracking goal blow off telling brown.",
-    "shortDesc": "Set up user-friendly CMS solutions like WordPress or custom-built options so clients can manage content  easily.",
-    "desc1": "Brolly show off show off pick your nose and blow off well A bit of how’s your father tomfoolery blimey, me old mucker starkers Queen’s English dropped a clanger bite your arm spiffing good time burke Why chancer. Hotpot bum bag cracking goal young delinquent naff bugger cup of chars bender loo it’s all gone to pot the nancy cheeky.",
-    "desc2": "At public school cras bog some dodgy chav Richard Why argy bargy vagabon William bender matie boy, off his nut chancer Jeffrey up the kyver say mufty you mug ummm telling pear shaped Oxford owt to do with me do one so said are you taking his.",
-    "totalProject": "11 Projects",
+    "desc": "We design high-converting websites that turn visitors into leads, leads into customers, and customers into loyal clients—helping you grow faster than ever.",
+    "shortDesc": "A strategic website that captures attention, builds trust, and drives real business growth.",
+
+    "totalProject": "30+ Projects",
     "process": {
-      "title": "Services Process",
-      "img": "/img/services/service-details.jpg",
-      "iconName": "flaticon-design",
+      "title": "Why Our Websites Convert So Well",
+      "img": "/img/services/service-details-2.jpg",
+      "iconName": "flaticon-web-design",
 
-      "desc": "Elizabeth some dodgy chavs are you taking the piss faff about pardon amongst car boot a load of old tosh is cracking goal blow off telling brown.",
+      "desc": "Our website structure follows a proven, data-backed framework that eliminates friction, builds trust, and gets customers to take action.",
       "processItems": [
-        "Reinvent Your Business to Better",
-        "Pioneering the Internet's First",
-        "Pioneering the Design World's First",
-        "Pioneering the Design World's First",
-        "Pioneering the Design World's First",
-        "Pioneering the Design World's First"
+        "Compelling Hero Section: Instantly communicates what you do, who you serve, and why you’re the best—paired with a strong call-to-action (CTA) that encourages immediate action.",
+        "Clear Service Breakdown: Visitors need to know exactly what you offer—fast. We showcase your services in a clear, digestible format to eliminate confusion.",
+        "Trust-Building Elements: Social proof, reviews, and years of experience build credibility and make you the obvious choice over competitors.",
+        "Strategic Call-to-Actions: Every section includes a CTA that guides visitors to take the next step—whether that’s booking an appointment, requesting a quote, or calling you directly.",
+        "Optimized for Mobile & Speed: A slow website loses leads. Our designs are built for fast loading times and seamless mobile experiences, ensuring visitors stay and convert."
       ]
     }
   },
   {
     "id": 3,
-    "title": "Content Writing",
-    "img": "/img/services/3.png",
-    "iconName": "flaticon-web-design",
-
-    "desc": "Elizabeth some dodgy chavs are you taking the piss faff about pardon amongst car boot a load of old tosh is cracking goal blow off telling brown.",
-    "shortDesc": "Build and integrate APIs to connect websites with third-party applications, enhancing functionality and performance.",
-    "desc1": "Brolly show off show off pick your nose and blow off well A bit of how’s your father tomfoolery blimey, me old mucker starkers Queen’s English dropped a clanger bite your arm spiffing good time burke Why chancer. Hotpot bum bag cracking goal young delinquent naff bugger cup of chars bender loo it’s all gone to pot the nancy cheeky.",
-    "desc2": "At public school cras bog some dodgy chav Richard Why argy bargy vagabon William bender matie boy, off his nut chancer Jeffrey up the kyver say mufty you mug ummm telling pear shaped Oxford owt to do with me do one so said are you taking his.",
-    "totalProject": "15 Projects",
+    "title": "Development",
+    "img": "/img/services/4.png",
+    "iconName": "fa fa-cogs",
+    "desc": "We specialize in building fast, SEO-optimized websites using WordPress and Elementor. Our development process focuses on creating modern websites that not only look visually appealing but also function seamlessly to drive conversions and grow your business.",
+    "shortDesc": "A modern, fast, SEO-optimized website built with WordPress and Elementor, integrating automations and third-party tools like booking systems, contact forms, and more.",
+    "desc1": "Our websites are designed for speed and optimized for mobile, ensuring your visitors have a seamless experience on any device. We use Elementor’s responsive design features to make your website work perfectly across phones, tablets, and desktops. Additionally, our websites are built with SEO best practices to help improve your rankings and drive organic traffic.",
+    "desc2": "We integrate powerful automation tools and third-party applications, like booking systems, contact forms for quote requests, thank-you pages for conversion tracking, privacy policy pages for Google Ads compliance, and much more. These integrations enhance your website’s functionality and streamline your business processes.",
+    "totalProject": "30+ Projects",
     "process": {
       "title": "Services Process",
       "img": "/img/services/service-details.jpg",
       "iconName": "flaticon-design",
-
-      "desc": "Elizabeth some dodgy chavs are you taking the piss faff about pardon amongst car boot a load of old tosh is cracking goal blow off telling brown.",
+      "desc": "Our development process is designed to deliver high-quality websites that are fast, functional, and built for conversion. From initial design to final launch, we ensure every detail is optimized for your success.",
       "processItems": [
         "Reinvent Your Business to Better",
-        "Pioneering the Internet's First",
-        "Pioneering the Design World's First",
-        "Pioneering the Design World's First",
-        "Pioneering the Design World's First",
-        "Pioneering the Design World's First"
+        "Pioneering the Internet's First Solutions",
+        "Integrating Booking Systems for Seamless Scheduling",
+        "Optimizing Websites for Maximum Speed & Performance",
+        "Adding Custom Contact Forms & Lead Generation Tools",
+        "Ensuring Compliance with Privacy & Legal Requirements"
       ]
     }
   },
   {
     "id": 4,
-    "title": "Digital Marketing",
-    "img": "/img/services/4.png",
-    "iconName": "flaticon-3d-movie",
-
-    "desc": "Elizabeth some dodgy chavs are you taking the piss faff about pardon amongst car boot a load of old tosh is cracking goal blow off telling brown.",
-    "shortDesc": "Refresh outdated websites with modern, appealing designs that align with current brand goals and user expectations.",
-    "desc1": "Brolly show off show off pick your nose and blow off well A bit of how’s your father tomfoolery blimey, me old mucker starkers Queen’s English dropped a clanger bite your arm spiffing good time burke Why chancer. Hotpot bum bag cracking goal young delinquent naff bugger cup of chars bender loo it’s all gone to pot the nancy cheeky.",
-    "desc2": "At public school cras bog some dodgy chav Richard Why argy bargy vagabon William bender matie boy, off his nut chancer Jeffrey up the kyver say mufty you mug ummm telling pear shaped Oxford owt to do with me do one so said are you taking his.",
-    "totalProject": "10 Projects",
+    "title": "Copywriting",
+    "img": "/img/services/3.png",
+    "iconName": "fa fa-pencil-alt",
+    "desc": "We create engaging and persuasive copy that helps your business connect with your audience and drive conversions. From website copy to blog posts, we deliver content that speaks your business’s language.",
+    "shortDesc": "Quality copy that drives action and boosts your business’s message.",
+    "desc1": "We specialize in crafting SEO-friendly copy that not only engages your audience but also ranks well on search engines. We focus on delivering clear, compelling, and action-oriented content.",
+    "desc2": "Whether it’s a new website, blog, or product description, we ensure your message is tailored to your audience and aligned with your business goals.",
+    "totalProject": "30+ Projects",
     "process": {
       "title": "Services Process",
       "img": "/img/services/service-details.jpg",
       "iconName": "flaticon-design",
-
-      "desc": "Elizabeth some dodgy chavs are you taking the piss faff about pardon amongst car boot a load of old tosh is cracking goal blow off telling brown.",
+      "desc": "Our copywriting process is simple and effective. From understanding your business to delivering final content, we ensure your message is clear and impactful.",
       "processItems": [
-        "Reinvent Your Business to Better",
-        "Pioneering the Internet's First",
-        "Pioneering the Design World's First",
-        "Pioneering the Design World's First",
-        "Pioneering the Design World's First",
-        "Pioneering the Design World's First"
+        "Understanding your business and audience",
+        "Writing SEO-friendly, engaging copy",
+        "Crafting content that speaks to your audience",
+        "Incorporating clear calls-to-action",
+        "Reviewing and editing for clarity and quality"
       ]
     }
   }

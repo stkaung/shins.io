@@ -13,7 +13,7 @@ const Logo = ({ isSticky }) => {
             ? "inline-block   "
             : " hidden dark:inline-block"
         } `}
-        src="/img/logo/logo.png"
+        src="/img/logo/logo-white.png"
         alt=""
         width={1000}
         height={1000}
@@ -22,7 +22,7 @@ const Logo = ({ isSticky }) => {
         className={`w-15 h-15  ${
           isInnerPage && !isSticky ? "hidden" : "inlin-block dark:hidden"
         }`}
-        src="/img/logo/logo-dark.png"
+        src="/img/logo/logo.png"
         alt=""
         width={1000}
         height={1000}

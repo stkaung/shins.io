@@ -1,5 +1,5 @@
 {
-  "name": "gerold",
+  "name": "shin-development",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,10 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "dompurify": "^3.2.4",
     "glightbox": "^3.3.0",
     "gsap": "^3.12.5",
     "isotope-layout": "^3.0.6",
-    "next": "15.1.2",
+    "next": "^15.1.2",
     "nice-select2": "^2.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

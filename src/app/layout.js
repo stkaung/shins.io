@@ -14,19 +14,19 @@ import "./css/odometer-theme-default.css";
 import "./globals.css";
 
 export const metadata = {
-	title: "Gerold - Personal Portfolio React  NextJs Template",
-	description: "Gerold - Personal Portfolio React  NextJs Template",
+  title: "Shin Development",
+  description: "Shin Development - The Ultimate Business Accelerator",
 };
 
 export default function RootLayout({ children }) {
-	return (
-		<html lang="en" className="dark ">
-			<body
-				className={`font-sora  dark:bg-dark-color overflow-x-hidden  relative`}
-			>
-				<Suspense fallback={<></>}>{children}</Suspense>
-				<ThmeModeSwither />
-			</body>
-		</html>
-	);
+  return (
+    <html lang="en" className="dark ">
+      <body
+        className={`font-sora  dark:bg-dark-color overflow-x-hidden  relative`}
+      >
+        <Suspense fallback={<></>}>{children}</Suspense>
+        <ThmeModeSwither />
+      </body>
+    </html>
+  );
 }

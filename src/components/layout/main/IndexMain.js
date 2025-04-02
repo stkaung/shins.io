@@ -9,18 +9,15 @@ import Skills1 from "@/components/sections/skills/Skills1";
 import Testimonials1 from "@/components/sections/testimonials/Testimonials1";
 
 const IndexMain = () => {
-	return (
-		<main>
-			<Hero />
-			<Services1 />
-			<Portfolio1 />
-			<Resume1 />
-			<Skills1 />
-			<Testimonials1 />
-			<Blogs1 />
-			<Contact1 />
-		</main>
-	);
+  return (
+    <main>
+      <Hero />
+      <Services1 />
+      <Portfolio1 />
+      <Skills1 />
+      <Contact1 />
+    </main>
+  );
 };
 
 export default IndexMain;

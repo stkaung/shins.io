@@ -6,9 +6,8 @@ import { notFound } from "next/navigation";
 const services = getALlServices();
 
 export const metadata = {
-  title: "Service Details - Gerold - Personal Portfolio React  NextJs Template",
-  description:
-    "Service Details - Gerold - Personal Portfolio React  NextJs Template",
+  title: "Service Details - Shin Development",
+  description: "Some of the services offered by Shin Development.",
 };
 
 export default async function ServiceDetails({ params }) {
